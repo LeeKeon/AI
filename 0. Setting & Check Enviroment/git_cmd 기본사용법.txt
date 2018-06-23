@@ -1,0 +1,16 @@
+1. repository clone
+git clone https://github.com/LeeKeon/AI.git
+
+2. add file
+git add "filename"
+
+3. commit
+git commit -m "commit message"
+
+4. push
+git push -u origin master
+
+그 외 유용한 명령어
+git status
+git fetch
+git pull
