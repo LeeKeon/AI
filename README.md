@@ -1,4 +1,4 @@
-Keon's AI Pratice Repository
+Keon's AI Practice Repository
 ----------------------------
 
 Refference
