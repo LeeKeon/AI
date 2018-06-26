@@ -9,3 +9,12 @@ Refference
 Dataset
 -------
 * GoogleDrive : https://drive.google.com/drive/folders/1rHuPD6mJhQBnMe6BhKLOx2vHW7sK4GJF?usp=sharing
+
+Getting start
+-------------
+“`
+ 1. 환경설정
+  - Anaconda 설치
+  - Anaconda 환경설정 
+  - tensorflow, keras 설치 (Keras는 2.1 버전대)
+“`
