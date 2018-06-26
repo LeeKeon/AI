@@ -10,9 +10,9 @@ Dataset
 -------
 * GoogleDrive : https://drive.google.com/drive/folders/1rHuPD6mJhQBnMe6BhKLOx2vHW7sK4GJF?usp=sharing
 
-Getting start
+Getting start (여기서부터 조금씩 작성해나갈 예정입니다..ㅠ)
 -------------
-      1. 환경설정
+      1. 환경설정 (
         - Anaconda 설치
         - Anaconda 환경설정 
         - tensorflow, keras 설치 (Keras는 2.1 버전대)
