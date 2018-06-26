@@ -12,9 +12,8 @@ Dataset
 
 Getting start
 -------------
-"'
- 1. 환경설정
-  - Anaconda 설치
-  - Anaconda 환경설정 
-  - tensorflow, keras 설치 (Keras는 2.1 버전대)
-"'
+      1. 환경설정
+        - Anaconda 설치
+        - Anaconda 환경설정 
+        - tensorflow, keras 설치 (Keras는 2.1 버전대)
+
