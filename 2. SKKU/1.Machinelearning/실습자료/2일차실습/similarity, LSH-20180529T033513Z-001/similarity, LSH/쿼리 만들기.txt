@@ -1,0 +1,2 @@
+query_string = '茄惫绢 贸府 规过'
+query = tfidv.transform([query_string]).toarray()[0]

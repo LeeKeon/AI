@@ -1,0 +1,5 @@
+dataset = []
+with open('./mart.csv', 'r') as reader:
+    for line in reader:
+        dataset.append(line.strip().split(','))
+print(dataset)
