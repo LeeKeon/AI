@@ -9,7 +9,7 @@ class movie_data(object):
     
     def __init__(self):
         self.train_pt, self.test_pt = 0, 0
-        self.img_path = "./dataset/poster_image/SampleMoviePosters/"
+        self.img_path = "./dataset/SampleMoviePosters/"
         self.label_path = "./dataset/MovieGenre_fix.csv"
         
         self.movieid_2_genre = {}
